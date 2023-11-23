@@ -1,5 +1,5 @@
 deployment:
   imageVersion: stable-perl
-  replicaCount: 3
+  replicaCount: "3"
 service: 
-  poer: 80
+  poer: "80"
